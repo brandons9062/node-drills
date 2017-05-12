@@ -1,0 +1,24 @@
+{
+  "name": "node-drills",
+  "version": "1.0.0",
+  "description": "Each standalone app below builds on the previous app(s). The instructions given are only for the current app, with the assumption that you don't need repeat instructions for the previous steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandons9062/node-drills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandons9062/node-drills/issues"
+  },
+  "homepage": "https://github.com/brandons9062/node-drills#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}

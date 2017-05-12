@@ -1,3 +1,4 @@
+module.exports = 
 [
 {"name":"Elizabeth","start":1565,"end":1603,"index":0},
 {"name":"James I","start":1603,"end":1625,"index":1},
